@@ -1,7 +1,5 @@
 python-dotenv
-pandas 
-numpy 
+pandas
+numpy
 pymango
 certifi
-
-# -e .
