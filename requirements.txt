@@ -3,6 +3,9 @@ pandas
 numpy 
 pymango
 certifi
-pymongo
+pymongo[srv]==4.16
+scikit-learn
+
+pyaml
 
 # -e .

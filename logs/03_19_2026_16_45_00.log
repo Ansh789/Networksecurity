@@ -1,0 +1,10 @@
+[ 2026-03-19 16:45:14,110 ] 34 root - INFO - Required number of columns: 31
+[ 2026-03-19 16:45:14,110 ] 35 root - INFO - Data frame has columns: 31
+[ 2026-03-19 16:45:14,110 ] 34 root - INFO - Required number of columns: 31
+[ 2026-03-19 16:45:14,111 ] 35 root - INFO - Data frame has columns: 31
+[ 2026-03-19 16:45:15,587 ] 63 root - INFO - Entered initiate_data_transformation method of DataTransformation class
+[ 2026-03-19 16:45:15,588 ] 65 root - INFO - Starting data transformation
+[ 2026-03-19 16:45:15,899 ] 48 root - INFO - Entered get_data_trnasformer_object method of Trnasformation class
+[ 2026-03-19 16:45:15,899 ] 53 root - INFO - Initialise KNNImputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[ 2026-03-19 16:45:16,012 ] 30 root - INFO - Starting model training
+[ 2026-03-19 16:45:20,876 ] 48 root - INFO - Model accuracy: 0.9884990631259288

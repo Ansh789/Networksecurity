@@ -27,5 +27,11 @@ setup(
     author="Ansh",
     author_email="ansh7802@gmail.com",
     packages=find_packages(),
+    py_modules=['main'],
+    entry_points={
+        'console_scripts': [
+            'networksecurity=main:main'
+        ]
+    },
     install_requires=get_requirements()
 )
